@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1> ChitChat-Th </h1>
+  <h1> ChitChat</h1>
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Made with love in Egypt">
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Made with love in Egypt">
   <img src="https://img.shields.io/badge/Made_With_Love-B32629?style=for-the-badge&logo=undertale&logoColor=white" alt="Made with love in Egypt">
